@@ -4,7 +4,8 @@ Supervised text classification of news headlines into 8 categories
 (Business, City / Local, Entertainment, India / National, Lifestyle, Sports, Technology, World),
 deployed with Streamlit Community Cloud.
 
-**Live app:** _paste your Streamlit URL here_
+**Live app:** https://news-classifier-shidhartha.streamlit.app/
+
 
 ## Pipeline
 raw text -> cleaning (lowercase, strip punctuation, stopwords) -> TF-IDF (1-2 grams) -> Logistic Regression / Linear SVM / Naive Bayes -> evaluation -> Streamlit app
