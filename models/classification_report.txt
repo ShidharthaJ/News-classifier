@@ -1,0 +1,14 @@
+                  precision    recall  f1-score   support
+
+        Business       0.77      0.75      0.76      5999
+    City / Local       0.64      0.64      0.64      6000
+   Entertainment       0.81      0.81      0.81      5999
+India / National       0.64      0.61      0.62      6000
+       Lifestyle       0.75      0.79      0.77      5997
+          Sports       0.90      0.89      0.90      6000
+      Technology       0.82      0.83      0.83      5999
+           World       0.79      0.82      0.80      6000
+
+        accuracy                           0.77     47994
+       macro avg       0.77      0.77      0.77     47994
+    weighted avg       0.77      0.77      0.77     47994

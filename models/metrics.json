@@ -1,0 +1,17 @@
+{
+ "model": "Logistic Regression",
+ "accuracy": 0.7672834104263033,
+ "macro_f1": 0.7667493146423985,
+ "n_train": 191975,
+ "n_test": 47994,
+ "classes": [
+  "Business",
+  "City / Local",
+  "Entertainment",
+  "India / National",
+  "Lifestyle",
+  "Sports",
+  "Technology",
+  "World"
+ ]
+}

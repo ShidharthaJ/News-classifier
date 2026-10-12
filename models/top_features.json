@@ -1,0 +1,98 @@
+{
+ "Business": [
+  "sensex",
+  "sebi",
+  "rbi",
+  "oil",
+  "inflation",
+  "stocks",
+  "ranbaxy",
+  "gst",
+  "spicejet",
+  "maruti"
+ ],
+ "City / Local": [
+  "cm",
+  "bjp",
+  "state",
+  "gurugram",
+  "cops",
+  "held",
+  "hc",
+  "buses",
+  "bmc",
+  "civic"
+ ],
+ "Entertainment": [
+  "kollywood",
+  "biopic",
+  "film",
+  "salman",
+  "britney",
+  "mohanlal",
+  "written update",
+  "amy",
+  "kapoor",
+  "sudeep"
+ ],
+ "India / National": [
+  "bjp",
+  "sc",
+  "pm",
+  "congress",
+  "cong",
+  "cbi",
+  "iaf",
+  "cji",
+  "govt",
+  "mps"
+ ],
+ "Lifestyle": [
+  "recipe",
+  "fashion",
+  "restaurant review",
+  "foods",
+  "micro review",
+  "start day",
+  "diet",
+  "author",
+  "diabetes",
+  "healthy"
+ ],
+ "Sports": [
+  "bcci",
+  "nba",
+  "ipl",
+  "football",
+  "pcb",
+  "tendulkar",
+  "icc",
+  "cup",
+  "fifa",
+  "dhoni"
+ ],
+ "Technology": [
+  "google",
+  "facebook",
+  "infosys",
+  "microsoft",
+  "apple",
+  "iphone",
+  "wipro",
+  "tcs",
+  "ibm",
+  "samsung"
+ ],
+ "World": [
+  "pak",
+  "nepal",
+  "china",
+  "musharraf",
+  "pakistan",
+  "uk",
+  "us",
+  "trump",
+  "obama",
+  "bush"
+ ]
+}
